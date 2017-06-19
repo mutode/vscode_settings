@@ -3,6 +3,7 @@
         "vscodevim.vim",
         "ms-vscode.csharp",
         "donjayamanne.python",
-        "mattn.runner"
+        "mattn.runner",
+		"Unity.unity-debug"
     ]
 }
