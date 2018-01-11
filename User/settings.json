@@ -19,5 +19,5 @@
 
     // color
     "workbench.colorTheme": "Solarized Light",
-    "vim.disableAnnoyingNeovimMessage": true
+    // "vim.disableAnnoyingNeovimMessage": true
 }

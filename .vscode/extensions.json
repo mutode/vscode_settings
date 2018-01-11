@@ -2,8 +2,6 @@
     "recommendations": [
         "vscodevim.vim",
         "ms-vscode.csharp",
-        "donjayamanne.python",
-        "mattn.runner",
-		"Unity.unity-debug"
+		"Zignd.html-css-class-completion",
     ]
 }
