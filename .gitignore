@@ -1,3 +1,11 @@
 *.DS_Store
 mac/.vscode/*
 !mac/.vscode/extensions.json
+
+win/.vscode/*
+!win/.vscode/extensions.json
+
+mac/User/workspaceStorage/*
+win/User/workspaceStorage/*
+mac/User/snippets/*
+win/User/snippets/*

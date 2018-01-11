@@ -1,0 +1,12 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "ctrl+oem_2",
+    "command": "actions.find",
+  },
+  {
+    "key": "ctrl+shift+oem_2",
+    "command": "editor.action.commentLine",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+]

@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // generic setting
+    // "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "editor.renderWhitespace": "boundary",
+
+    // // python setting
+    // "python.pythonPath": "/Users/Asama_SC/.pyenv/shims/python",
+    // "python.linting.pylintEnabled": false,
+    // "python.linting.pep8Enabled": true,
+    // "python.autoComplete.extraPaths": [
+    //     "/Users/Asama_SC/.pyenv/versions/2.7.9/lib/python2.7/site-packages"
+    // ],
+
+    // // Csharp
+    // "runner.languageMap": {
+    //     "csharp" : "~/Program/run_sh/csharp.sh"
+    // },
+
+    // color
+    "workbench.colorTheme": "Solarized Light",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "window.menuBarVisibility": "default",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0
+}
