@@ -1,4 +1,4 @@
 # bin/sh
 
-ln -sf ./mac/User ~/Library/Application\ Support/Code/User
-ln -sf ./mac/.vscode ~/.vscode
+ln -nsf ~/vscode_settings/mac/User ~/Library/Application\ Support/Code/User
+ln -nsf ~/vscode_settings/mac/.vscode ~/.vscode
