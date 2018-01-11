@@ -1,2 +1,3 @@
-.vscode/*
-!.vscode/extensions.json
+*.DS_Store
+mac/.vscode/*
+!mac/.vscode/extensions.json
